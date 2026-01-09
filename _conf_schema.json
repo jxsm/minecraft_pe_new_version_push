@@ -1,0 +1,6 @@
+{
+    "qq_group":{
+        "type":"list",
+        "description":"QQ群号"
+    }
+}
